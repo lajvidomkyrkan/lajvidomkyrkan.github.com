@@ -24,7 +24,7 @@ Lajvet baseras till stor del på historiska händelser, men vi har tagit oss vis
 Du spelar munk/nunna från Lars kloster som har flytt till domkyrkan tillsammans med honom för att söka asyl. Du får ett rollskelett av oss på plats och vi bygger tillsammans ut det genom rollövningar.
 
 ###Praktiskt###
-Tre knutar kommer att spelas den **13 april 2013* i Uppsala Domkyrka.
+Tre knutar kommer att spelas den **13 april 2013** i Uppsala Domkyrka.
 Exakta tider, övrig information och möjlighet att anmäla sig kommer senare.
 
 
