@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Lajv i Uppsala Domkyrka]]></title>
+  <link href="http://lajvidomkyrkan.github.com/atom.xml" rel="self"/>
+  <link href="http://lajvidomkyrkan.github.com/"/>
+  <updated>2013-01-19T23:22:52+01:00</updated>
+  <id>http://lajvidomkyrkan.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sidan Öppnar]]></title>
+    <link href="http://lajvidomkyrkan.github.com/blog/2013/01/19/sidan-oppnar/"/>
+    <updated>2013-01-19T23:49:00+01:00</updated>
+    <id>http://lajvidomkyrkan.github.com/blog/2013/01/19/sidan-oppnar</id>
+    <content type="html"><![CDATA[<p><img class="right" src="../images/Tidevarv_Blomma.jpg"></p>
+
+<p>Nu är webbsidan för våra tre lajv i Uppsala domkyrka igång. Du kan läsa om varje arrangemang under respektive flik: <a href="turings-fraga/">Turings fråga</a>, <a href="tre-knutar/">Tre knutar</a> och <a href="tidevarv-komma/">Tidevarv komma, tidevarv försvinna</a>. Vill du veta mer om oss och projektet så kan du kolla under <a href="projektet/">projektfliken</a>.</p>
+
+<p>För det första lajvet: Turings fråga, som går av stapeln den 9/2 finns all info du behöver uppe. Mer information om de andra två lajvet, och rapporter från vårt arbete kommer komma upp här allt eftersom. Hoppas vi ses i Domkyrkan i vår!</p>
+
+<p>/Frida, Johan och Sara</p>
+]]></content>
+  </entry>
+  
+</feed>
