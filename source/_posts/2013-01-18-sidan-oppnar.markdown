@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-{% img right ../images/Tidevarv_Blomma.jpg %}
+{% img right http://lajvidomkyrkan.github.com/images/Tidevarv_Blomma.jpg %}
 
 Nu är webbsidan för våra tre lajv i Uppsala domkyrka igång. Du kan läsa om varje arrangemang under respektive flik: [Turings fråga](turings-fraga/), [Tre knutar](tre-knutar/) och [Tidevarv komma, tidevarv försvinna](tidevarv-komma/). Vill du veta mer om oss och projektet så kan du kolla under [projektfliken](projektet/).
 
