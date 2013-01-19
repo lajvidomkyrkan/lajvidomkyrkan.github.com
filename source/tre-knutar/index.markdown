@@ -12,7 +12,7 @@ Tema: Mänsklighet **Moral** Tro
 
 *Året är 1527 och franciskanermunken Lars Sigfridsson söker skydd i Uppsala domkyrka. Hans bröder och systrar från klostret har följt med honom och ni hör att kungens soldater slår på porten. De kräver att Lars lämnas ut för förräderi mot kronan. Vilka val är de rätta? Vad väljer du?*
 
-{% img ../images/Suecia_Uppsala_Templum_Cathedrale.jpg %}
+{% img right ../images/Knutar.jpg %}
 
 Spelet kommer att handla om valet att lämna ut Lars eller inte, men också att välja sin egen framtid. Reformationen och Lars situation ställer frågorna om den egna tron och lojaliteten mot vänner och kyrka på sin spets. Det kommer att finnas konflikter inbyggda i gruppen där vissa har mer att vinna eller förlora på olika utfall.
 

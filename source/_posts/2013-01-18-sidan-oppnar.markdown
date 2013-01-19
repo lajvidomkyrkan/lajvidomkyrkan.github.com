@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sidan Öppnar"
+title: "Sidan öppnar"
 date: 2013-01-19 23:49
 comments: true
 categories: 
