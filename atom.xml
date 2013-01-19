@@ -4,7 +4,7 @@
   <title><![CDATA[Lajv i Uppsala Domkyrka]]></title>
   <link href="http://lajvidomkyrkan.github.com/atom.xml" rel="self"/>
   <link href="http://lajvidomkyrkan.github.com/"/>
-  <updated>2013-01-19T23:22:52+01:00</updated>
+  <updated>2013-01-20T00:30:13+01:00</updated>
   <id>http://lajvidomkyrkan.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Sidan Öppnar]]></title>
+    <title type="html"><![CDATA[Sidan öppnar]]></title>
     <link href="http://lajvidomkyrkan.github.com/blog/2013/01/19/sidan-oppnar/"/>
     <updated>2013-01-19T23:49:00+01:00</updated>
     <id>http://lajvidomkyrkan.github.com/blog/2013/01/19/sidan-oppnar</id>
-    <content type="html"><![CDATA[<p><img class="right" src="../images/Tidevarv_Blomma.jpg"></p>
+    <content type="html"><![CDATA[<p><img class="right" src="http://lajvidomkyrkan.github.com/images/Tidevarv_Blomma.jpg"></p>
 
 <p>Nu är webbsidan för våra tre lajv i Uppsala domkyrka igång. Du kan läsa om varje arrangemang under respektive flik: <a href="turings-fraga/">Turings fråga</a>, <a href="tre-knutar/">Tre knutar</a> och <a href="tidevarv-komma/">Tidevarv komma, tidevarv försvinna</a>. Vill du veta mer om oss och projektet så kan du kolla under <a href="projektet/">projektfliken</a>.</p>
 
