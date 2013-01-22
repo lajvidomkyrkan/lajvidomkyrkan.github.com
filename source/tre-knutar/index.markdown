@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tre Knutar"
+title: "Tre knutar"
 date: 2013-01-19 22:49
 comments: true
 sharing: true
