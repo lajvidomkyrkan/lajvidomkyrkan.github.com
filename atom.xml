@@ -4,7 +4,7 @@
   <title><![CDATA[Lajv i Uppsala Domkyrka]]></title>
   <link href="http://lajvidomkyrkan.github.com/atom.xml" rel="self"/>
   <link href="http://lajvidomkyrkan.github.com/"/>
-  <updated>2013-01-22T21:31:08+01:00</updated>
+  <updated>2013-02-02T13:39:13+01:00</updated>
   <id>http://lajvidomkyrkan.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rekat kyrkan och uppdateringar på hemsidan]]></title>
+    <link href="http://lajvidomkyrkan.github.com/blog/2013/02/02/rekat-kyrkan-och-uppdateringar-pa-hemsidan/"/>
+    <updated>2013-02-02T11:36:00+01:00</updated>
+    <id>http://lajvidomkyrkan.github.com/blog/2013/02/02/rekat-kyrkan-och-uppdateringar-pa-hemsidan</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://lajvidomkyrkan.github.com/images/Reka.jpg"></p>
+
+<p>Idag har vi varit i domkyrkan och rekat. Vi testade ljud och ljus inför Turings fråga nästa helg, och allt funkade utmärkt. Vi har också gjort några små uppdateringar på hemsidan, bl.a. är sidan om Turings fråga uppdaterad med en lista över några vanliga frågor vi har fått om arrangemanget, och svar på dessa. Nästa helg smäller det, och vi hoppas att ni är lika förväntansfulla som vi är.</p>
+
+<p>/Frida, Johan och Sara</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Turings fråga fullt]]></title>
