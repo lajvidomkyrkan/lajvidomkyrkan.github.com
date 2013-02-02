@@ -29,7 +29,20 @@ Turings fråga kommer att spelas den **9 februari 2013** i Uppsala Domkyrka.
 
 Spelet kostar 100 kr och deltagaravgiften går till fika efter spelet. Eventuellt överskott kommer att gå till Stadsmissionen. Du betalar på plats, ta gärna med jämna pengar.
  
-Deltagare: 8-14 spelare. 
+Deltagare: 8-14 spelare.
+
+###Vanliga frågor###
+**När (i vilken tidsperiod) utspelar sig Turings fråga?** <br/>
+Turings fråga utspelar sig i en parallel nutid, som på alla sätt är lik vår egen, med utantaget att man på det fiktiva Svanström institutet har tagit fram en människolik android.
+
+** Behöver jag ha med mig någon särskild revisita t.ex. kläder?**<br/>
+Nej. Ingen särskild rekvisita eller kostym behövs, utan kom som du känner dig bekväm.
+
+** När får jag min roll?**<br/>
+Du får ditt rollskelett på plats, och sen utvecklar vi rollerna vidare tillsammans genom en förberedelse workshop i anslutning till lajvet.
+
+** Jag kan inte komma på lajvet, kommer det sättas upp igen?**<br/>
+Ja. Turings fråga kommer sättas upp igen på lajvkonventen [Prolog](http://lajvkonvent.se/), på Culturen i Västerås 8:e till 10:e mars. 
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHpYUGtabVdTUmxfcUpJM2NKcmpIZlE6MQ" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

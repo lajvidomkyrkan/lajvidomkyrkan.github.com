@@ -13,9 +13,12 @@ Det övergripande temat för de tre lajven är identitet och livsfrågor. Vi har
 
 Lokalen där våra lajv utspelar sig är visserligen en kristen miljö men frågorna är inte knutna till en särskild livsåskådning utan är aktuella för alla och alla är självklart välkomna, oavsett om du är troende, ateist, nybörjarlajvare eller inbiten rollspelare.
  
-Vi som arrangerar lajven heter Frida Gamero, Sara Engström och Johan Dahlberg. Du når oss på lajvidomkyrkan@gmail.com.
+Vi som arrangerar lajven heter Frida Gamero, Sara Engström och Johan Dahlberg. Du når oss på lajvidomkyrkan@gmail.com. Projektet sker i samarbete med [Uppsala domkyrkoförsamling](http://www.svenskakyrkan.se/default.aspx?id=529524).
+
+{% img ../images/SvenskaKyrkan.jpg %}
 
 ###Vad är lajv?###
 Lajv, även känt som levande rollspel, kan beskrivas som en improviserad teater där ingen är publik utan alla är med och spelar. I en påhittad verklighet har alla spelare en roll som skall gestaltas så trovärdigt som möjligt. Men hjälp av förbestämda karaktärsdrag, rekvisita och kläder skapas en så fullständig illusion som möjligt av den påhittade världen. Målet är inte att vinna utan att ha en givande och underhållande upplevelse tillsammans med sina medspelare. Förutom en övergripande ramberättelse finns det ingen handling som är förutbestämd i detalj. I stället skapar man historien tillsammans beroende på hur spelarna väljer att agera.
 
-För mer information om lajv, se gärna Johanna Koljonens sammanfattning om levande rollspel på [youtube](http://www.youtube.com/watch?feature=player_embedded&v=fH_RLgR4DI4).
+För mer information om lajv, se gärna Johanna Koljonens sammanfattning om levande rollspel från [youtube](http://www.youtube.com/watch?feature=player_embedded&v=fH_RLgR4DI4):
+<iframe width="420" height="315" src="http://www.youtube.com/embed/fH_RLgR4DI4" frameborder="0" allowfullscreen></iframe> 
