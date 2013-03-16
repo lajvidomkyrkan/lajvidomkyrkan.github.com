@@ -17,6 +17,11 @@ Vi som arrangerar lajven heter Frida Gamero, Sara Engström och Johan Dahlberg. 
 
 {% img ../images/SvenskaKyrkan.jpg %}
 
+###Varför lajv i domkyrkan?###
+
+> Uppsala domkyrka är en helig mötesplats för människor. Med hjälp av olika uttryckssätt och  metoder utforskar vi vad det är att vara skapade till Guds avbild och leva som människa i relation till Gud och andra människor. Vår tids metoder, där lajv, är en metod kan ge perspektiv som bidrar till människans reflektion därför har vi bett en grupp lajvare skriva rollspel som passar för domkyrkan och människan i vår tid. <br/>
+/Carin Åblad Lundström, kaplan för undervisning, Uppsala domkyrka
+
 ###Vad är lajv?###
 Lajv, även känt som levande rollspel, kan beskrivas som en improviserad teater där ingen är publik utan alla är med och spelar. I en påhittad verklighet har alla spelare en roll som skall gestaltas så trovärdigt som möjligt. Men hjälp av förbestämda karaktärsdrag, rekvisita och kläder skapas en så fullständig illusion som möjligt av den påhittade världen. Målet är inte att vinna utan att ha en givande och underhållande upplevelse tillsammans med sina medspelare. Förutom en övergripande ramberättelse finns det ingen handling som är förutbestämd i detalj. I stället skapar man historien tillsammans beroende på hur spelarna väljer att agera.
 

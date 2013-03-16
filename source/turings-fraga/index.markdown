@@ -35,7 +35,7 @@ Deltagare: 8-14 spelare.
 **När (i vilken tidsperiod) utspelar sig Turings fråga?** <br/>
 Turings fråga utspelar sig i en parallel nutid, som på alla sätt är lik vår egen, med utantaget att man på det fiktiva Svanström institutet har tagit fram en människolik android.
 
-** Behöver jag ha med mig någon särskild revisita t.ex. kläder?**<br/>
+** Behöver jag ha med mig någon särskild rekvisita t.ex. kläder?**<br/>
 Nej. Ingen särskild rekvisita eller kostym behövs, utan kom som du känner dig bekväm.
 
 ** När får jag min roll?**<br/>
@@ -43,7 +43,5 @@ Du får ditt rollskelett på plats, och sen utvecklar vi rollerna vidare tillsam
 
 ** Jag kan inte komma på lajvet, kommer det sättas upp igen?**<br/>
 Ja. Turings fråga kommer sättas upp igen på lajvkonventen [Prolog](http://lajvkonvent.se/), på Culturen i Västerås 8:e till 10:e mars. 
-
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHpYUGtabVdTUmxfcUpJM2NKcmpIZlE6MQ" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
