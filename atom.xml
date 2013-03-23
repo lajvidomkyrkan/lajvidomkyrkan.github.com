@@ -4,7 +4,7 @@
   <title><![CDATA[Lajv i Uppsala Domkyrka]]></title>
   <link href="http://lajvidomkyrkan.github.com/atom.xml" rel="self"/>
   <link href="http://lajvidomkyrkan.github.com/"/>
-  <updated>2013-03-16T22:28:44+01:00</updated>
+  <updated>2013-03-23T11:59:41+01:00</updated>
   <id>http://lajvidomkyrkan.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Anmälan för Tre knutar öppnar]]></title>
+    <link href="http://lajvidomkyrkan.github.com/blog/2013/03/23/anmalan-for-tre-knutar-oppnar/"/>
+    <updated>2013-03-23T12:00:00+01:00</updated>
+    <id>http://lajvidomkyrkan.github.com/blog/2013/03/23/anmalan-for-tre-knutar-oppnar</id>
+    <content type="html"><![CDATA[<p>Nu har anmälan för <a href="tre-knutar/">Tre knutar</a> öppnat. Hoppas att vi ses där!</p>
+
+<p>/Frida, Johan och Sara</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tre knutar är på gång!]]></title>
