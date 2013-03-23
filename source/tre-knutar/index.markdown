@@ -29,11 +29,11 @@ Vi har valt att alla spelar munkar, oavsett sin egen könsidentifikation, detta 
 Lajvet hämtar inspiration från flera källor. Bland annat filmen: Gudar och människor (Originaltitel: Des hommes et des dieux), om du vill får du gärna se filmen innan lajvet som inspirationskälla.
 
 ###Praktiskt###
-Tre knutar kommer att spelas den **13 april 2013** i Uppsala Domkyrka, under eftermiddag/kväll (exakta tider kommer senare). Lajvet kommer kosta ca. 150 kr, och betalas via faktura till den adress du angett vid anmälan. Om du inte har möjlighet att betala för lajvet, kommer det via det följebrev som kommer med fakturan gå att ange det och du är ändå varmt välkommen att delta på lajvet.
+Tre knutar kommer att spelas den **13 april 2013** i Uppsala Domkyrka. Vi samlas vid domkyrkans huvudingång kl **16:00** och håller på till senast **23.45**. Om du åker i riktning mot Stockholm efter lajvet kan du räkna med att ta SJs regionaltåg 00.11.
 
-Anmälan öppnar den **23 mars kl 12.00**. Anmälan är bindande!
+Lajvet kommer kosta **150 kr**, och betalas via faktura till den adress du angett vid anmälan. Om du inte har möjlighet att betala för lajvet, kommer det via det följebrev som kommer med fakturan gå att ange det och du är ändå varmt välkommen att delta på lajvet.
 
-Deltagare: max 13 spelare.
+Deltagare: max 14 spelare.
 
 ###Vanliga frågor###
 ** Behöver jag ha med mig någon särskild rekvisita t.ex. kläder?**<br/>
@@ -41,3 +41,8 @@ Nej. Du får den kostym och rekvisita du behöver på plats.
 
 ** När får jag min roll?**<br/>
 Du får ditt rollskelett på plats, och sen utvecklar vi rollerna vidare tillsammans genom en förberedelse workshop i anslutning till lajvet.
+
+###Anmälan###
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDBHTm45YlRoWm1HZC05cGxRU0h4UGc6MA" width="760" height="1174" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
