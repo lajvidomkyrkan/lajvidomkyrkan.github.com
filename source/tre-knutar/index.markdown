@@ -41,8 +41,3 @@ Nej. Du får den kostym och rekvisita du behöver på plats.
 
 ** När får jag min roll?**<br/>
 Du får ditt rollskelett på plats, och sen utvecklar vi rollerna vidare tillsammans genom en förberedelse workshop i anslutning till lajvet.
-
-###Anmälan###
-
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDBHTm45YlRoWm1HZC05cGxRU0h4UGc6MA" width="760" height="1174" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
