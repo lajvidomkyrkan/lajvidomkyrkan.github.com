@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-{% img right ../images/Avslutning_TreKnutar.jpg %}
+{% img right http://lajvidomkyrkan.github.com/images/Avslutning_TreKnutar.jpg %}
 
 Ännu ett lajv i domkyrkan är avslutat - och vi är mycket nöjda med resultatet. Vi tacka våra deltagare för fint spel, och än en gång skicka ett varm tack till Uppsala domkyrkoförsamlig för deras stöd i det här projektet.
 
