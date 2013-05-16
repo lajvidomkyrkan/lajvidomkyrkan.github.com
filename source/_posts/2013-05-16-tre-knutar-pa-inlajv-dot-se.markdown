@@ -8,4 +8,6 @@ categories:
 
 {% img right http://inlajv.se/img/logo.png %}
 
-Karin Johansson som var med på Tre knutar har skrivit om lajvet på [inlajv.se](inlajv.se), och vi är stolta och glada över dom fina saker hon skrivit om arrangemanget. Du kan läsa hela arikeln [här](http://inlajv.se/visa/55/tre-knutar-ett-lajv-om-moral).
+Karin Johansson som var med på Tre knutar har skrivit om lajvet på [inlajv.se](http://inlajv.se), och vi är stolta och glada över dom fina saker hon skrivit om arrangemanget. Du kan läsa hela artikeln [här](http://inlajv.se/visa/55/tre-knutar-ett-lajv-om-moral).
+
+/Frida, Johan och Sara
