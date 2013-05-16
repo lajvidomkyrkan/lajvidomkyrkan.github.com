@@ -10,9 +10,9 @@ footer: true
 *Ett spel om att söka efter ljuset i mörkret* <br/>
 Tema: Mänsklighet Moral **Tro**
 
-{% img right ../images/Tidevarv_Ljus.jpg %}
-
 *Efter katastrofen finns bara ruiner av den gamla civilisationen kvar. Bland minnen och spillror finns frågorna. Hur kunde detta ske och hur går vi vidare?*
+
+{% img right ../images/Tidevarv_Ljus.jpg %}
 
 Det skedde plötsligt. Myndigheterna stod handfallna inför epidemins skala. På två dygn hade Sveriges befolkning decimerats. Ett år har gått och i kvarlevorna efter den gamla världen skrapar överlevarna ihop vad de kan för att gå vidare. En grupp överlevare har begett sig från det jordbruk norr om Uppsala där de påbörjat sin nya tillvaro in till staden för att hålla en minnesstund, tända ett ljus och tänka på alla de som dött. Och kanske också finna ljus i en värld där allt tycks mörkt.
 
