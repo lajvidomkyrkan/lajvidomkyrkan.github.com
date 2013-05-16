@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mer information om Tidevarv komma"
+title: "Mer information om Tidevarv komma, tidevarv försvinna"
 date: 2013-05-16 21:16
 comments: true
 categories: 
