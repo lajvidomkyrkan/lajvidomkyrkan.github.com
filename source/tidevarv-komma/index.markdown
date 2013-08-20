@@ -37,6 +37,3 @@ Ja. Om du spelar skugga bör du klä dig helt i svart. Om du spelar överlevare 
 **När får jag min roll?**<br/>
 Om du har anmält dig i god tid kommer du att få veta om du spelar skugga eller överlevare senast en vecka innan lajvet. Du får ditt rollskelett på plats, och sen utvecklar vi rollerna vidare tillsammans genom en förberedelse workshop i anslutning till lajvet.
 
-###Anmälan###
-<iframe src="https://docs.google.com/forms/d/1M36t2oS1G7dTFRtJG_ZVVetlvwigTXCgk0D25nnsc6o/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
